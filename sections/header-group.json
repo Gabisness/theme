@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "SUMMER’S HERE! 50% OFF – LIMITED STOCK",
+            "url": ""
+          }
+        },
+        "message_rF8T3x": {
+          "type": "message",
+          "settings": {
+            "text": "FREE U.S. SHIPPING",
+            "url": ""
+          }
+        },
+        "message_9HWkMG": {
+          "type": "message",
+          "settings": {
+            "text": "30‑DAY MONEY-BACK GUARANTEE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_rF8T3x",
+        "message_9HWkMG"
       ],
       "settings": {
         "enable_sticky": false,
@@ -39,11 +55,15 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "a[href=\"/search\"] {display: none !important;}"
+      ],
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/logo-bold.svg",
+        "logo_max_width": 150,
+        "logo_mobile_max_width": 115,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -55,7 +75,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
+        "transparent_header_text_color": "#000000",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
