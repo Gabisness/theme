@@ -411,6 +411,66 @@
           "settings": {
             "liquid": "<div class=\"features-wrapper\">\n  <div class=\"features-container\">\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"Free Delivery Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Free Shipping</p>\n        <p class=\"feature-subtitle\">Estimated delivery in 5–7 days\n\n</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"Warranty Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Secure Payment</p>\n        <p class=\"feature-subtitle\">SSL encryption & 3D Secure enabled</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"Worry-Free Trial Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">30-Day Money-Back Guarantee</p>\n        <p class=\"feature-subtitle\">Try it risk-free, no conditions</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">US-Based Support</p>\n        <p class=\"feature-subtitle\">Available 7 days a week\n\n</p>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-wrapper {\n    display: flex;\n    justify-content: center;\n  }\n\n  .features-container {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    max-width: 600px; /* limite la largeur max */\n  }\n\n  .feature-item {\n    width: calc(50% - 10px);\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .icon-wrapper {\n    width: 40px;\n    height: 40px;\n    background-color: #F5F7F8;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .icon-wrapper img {\n    width: 22px;\n    height: 22px;\n    display: block;\n  }\n\n  .text-wrapper {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .feature-title {\n    font-weight: 700;\n    color: #242424;\n    margin: 0;\n    font-size: 14px;\n  }\n\n  .feature-subtitle {\n    font-weight: 400;\n    color: #424242;\n    margin: 0;\n    font-size: 12px;\n  }\n\n  @media (max-width: 480px) {\n    .feature-item {\n      width: calc(50% - 10px);\n    }\n\n    .feature-title {\n      font-size: 12px;\n    }\n\n    .feature-subtitle {\n      font-size: 10px;\n    }\n\n    .icon-wrapper {\n      width: 36px;\n      height: 36px;\n    }\n\n    .icon-wrapper img {\n      width: 20px;\n      height: 20px;\n    }\n  }\n</style>"
           }
+        },
+        "collapsible_text_6nQagf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What is KLYNE?",
+            "content": "<p><strong>Discover Klyne™ — the 2-in-1 shaver that transforms your beauty routine.</strong></p><p>With its dual-head design, it combines precision and gentleness for perfectly smooth skin, wherever you are.</p><p><strong>Forget painful waxing, overpriced laser sessions, and irritating disposable razors</strong> — Klyne gives you comfort without the usual struggles.</p><p>Waterproof and USB-C rechargeable, it works on both dry and wet skin.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_UhKNAc": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_VA8rPH": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_fgLHzW": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_k3hPQJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_xFiM4d": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -425,7 +485,13 @@
         "separator_3zJE8L",
         "buy_buttons_6MVHQR",
         "liquid_fEJ4nz",
-        "liquid_txT6rD"
+        "liquid_txT6rD",
+        "collapsible_text_6nQagf",
+        "collapsible_text_UhKNAc",
+        "collapsible_text_VA8rPH",
+        "collapsible_text_fgLHzW",
+        "collapsible_text_k3hPQJ",
+        "collapsible_text_xFiM4d"
       ],
       "custom_css": [
         ".text-on-sale {color: #00b67b;}"
