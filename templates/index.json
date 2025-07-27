@@ -371,10 +371,12 @@
             "text": "<p>- Removes hair from the root, <strong>pain-free</strong></p><p>- <strong>Prevents</strong> ingrown hairs and irritation</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin (use the glove before each shave)<br/><br/>Don’t wait for your skin to get worse over time — <strong>take action now.</strong></p>"
           }
         },
-        "rating_48L3eH": {
-          "type": "rating",
+        "image_aJQHjt": {
+          "type": "image",
           "settings": {
-            "show_empty": false
+            "image": "shopify://shop_images/1-exfoliating-glove-klyne.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "description_Xdkff3": {
@@ -416,7 +418,7 @@
         "separator_VhzMma",
         "price_QyBGVV",
         "text_AV6Qb9",
-        "rating_48L3eH",
+        "image_aJQHjt",
         "description_Xdkff3",
         "buy_buttons_6MVHQR",
         "liquid_fEJ4nz",
