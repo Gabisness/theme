@@ -437,8 +437,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Conseils d'utilisation",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "How to use",
+            "content": "<p><strong>1. Exfoliate before shaving (24h in advance)</strong><br/><br/>Use the exfoliating glove in circular motions to remove dead skin cells and release trapped hairs.<br/><br/>Dry your skin or leave it slightly damp — whichever feels more comfortable.</p><p><strong>2. Use the heads in the right order</strong></p><ul><li><strong>Long trimming guard:</strong> first, shorten longer hairs</li><li><strong>Body trimmer head:</strong> even out the hair length over the whole area</li><li><strong>Precision head:</strong> finish the job while keeping your skin slightly taut<br/></li></ul><p><strong>3. Shaving technique</strong><br/><br/>Hold the device at about a 30° angle to your skin.<br/><br/>Apply light pressure and let the blade glide — don’t force it.<br/><br/>Shave in the direction of hair growth first, then (if needed) go against the grain with one or two passes max.</p><p><strong>4. Aftercare</strong><br/><br/>Pat your skin dry gently.<br/><br/>Apply an alcohol-free soothing gel or cream to calm any redness.</p><p><strong>5. Exfoliate again (48h after shaving)</strong><br/><br/>Wait at least two days to allow your skin barrier to recover.<br/><br/>Then gently exfoliate to prevent ingrown hairs and keep your skin clear and smooth.</p>",
             "page": ""
           }
         },
