@@ -379,13 +379,15 @@
             "max_width": 500
           }
         },
-        "description_Xdkff3": {
-          "type": "description",
+        "gsc_countdown_timer_countdown_UFUL3d": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "widget_id": "GSC-SMALL-nDtMDPYmGULm"
           }
+        },
+        "separator_3zJE8L": {
+          "type": "separator",
+          "settings": {}
         },
         "buy_buttons_6MVHQR": {
           "type": "buy_buttons",
@@ -419,7 +421,8 @@
         "price_QyBGVV",
         "text_AV6Qb9",
         "image_aJQHjt",
-        "description_Xdkff3",
+        "gsc_countdown_timer_countdown_UFUL3d",
+        "separator_3zJE8L",
         "buy_buttons_6MVHQR",
         "liquid_fEJ4nz",
         "liquid_txT6rD"
