@@ -447,8 +447,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Free exfoliating glove for smooth, purified skin",
+            "content": "<p>Included with your shaver, our exfoliating glove is the perfect way to prep your skin.<br/><br/>By removing dead skin cells and impurities, it boosts the effectiveness of your shave, helps prevent ingrown hairs, and leaves your skin soft and smooth from the very first use.</p>",
             "page": ""
           }
         },
@@ -457,8 +457,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Shipping & Returns",
+            "content": "<h4>Shipping (U.S. Only)</h4><ul><li>Free standard shipping: 5–7 business days<br/></li><li>Order processing: 24 hours for verification, quality check, and packaging<br/></li><li>Important: Estimated delivery times may vary due to logistics or unforeseen circumstances<br/></li><li>Tracking: Available directly on our site—need your tracking number? Email us or use our contact form, and we’ll send it right away!</li></ul><h4>Returns</h4><p>30-day money-back guarantee: If you’re not completely satisfied, return your shaver and get a full refund<br/><br/>How to return: Email our U.S. support team for a prepaid return label and instructions<br/><br/>Condition: Shaver must be in like-new condition, with original packaging<br/><br/>For more details, see our full Shipping & Returns policy.</p>",
             "page": ""
           }
         },
@@ -467,8 +467,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Secure Payment",
+            "content": "<p><strong>Accepted payment methods:</strong><br/><br/>Credit & debit cards: Visa, MasterCard, American Express, Discover<br/><br/>Digital wallets & express checkout: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay<br/><br/><strong>Security & reliability:</strong><br/><br/>256-bit SSL encryption: All transactions are protected to keep your information safe<br/><br/>Enhanced verification: Every purchase undergoes additional checks to prevent fraud<br/><br/>Questions?<br/>Our U.S.-based support team is available 24/7.<br/>Email us at contact@klyne.shop.</p>",
             "page": ""
           }
         }
