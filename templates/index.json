@@ -334,6 +334,107 @@
         "text_color": ""
       }
     },
+    "featured_product_iX8zz3": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_dR9f8f": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .klyne-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 22px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"klyne-offre--flush\">\nKLYNE™ Shaver + Free Exfoliating Glove\n</p>"
+          }
+        },
+        "liquid_xF3BWG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .custom-reviews {\n    display: flex;\n    align-items: center;\n    font-size: 13px;\n    margin-top: 12px;\n    cursor: pointer;\n  }\n\n  .custom-reviews .stars {\n    margin-right: 6px;\n    width: 85px;\n    height: auto;\n  }\n\n  .custom-reviews .underline {\n    text-decoration: underline;\n  }\n</style>\n\n<div\n  class=\"custom-reviews\"\n  onclick=\"document.getElementById('shopify-section-template--25660332638533__testi_bas_page_jiN7eh').scrollIntoView({ behavior: 'smooth' });\"\n>\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\"\n    alt=\"4.5 étoiles\"\n    class=\"stars\"\n  />\n  <span>\n    <strong>Excellent</strong>\n    4.7/5 – <span class=\"underline\">1832 reviews</span>\n  </span>\n</div>"
+          }
+        },
+        "liquid_Xj9xzU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Only 4 shavers left in stock\n\n</div>\n</div>\n            </div></div>"
+          }
+        },
+        "separator_VhzMma": {
+          "type": "separator",
+          "settings": {}
+        },
+        "price_QyBGVV": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_AV6Qb9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Removes hair from the root, <strong>pain-free</strong></p><p>- <strong>Prevents</strong> ingrown hairs and irritation</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin (use the glove before each shave)<br/><br/>Don’t wait for your skin to get worse over time — <strong>take action now.</strong></p>"
+          }
+        },
+        "rating_48L3eH": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "description_Xdkff3": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "buy_buttons_6MVHQR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#00b67b",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_hHCAQf": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_dR9f8f",
+        "liquid_xF3BWG",
+        "liquid_Xj9xzU",
+        "separator_VhzMma",
+        "price_QyBGVV",
+        "text_AV6Qb9",
+        "rating_48L3eH",
+        "description_Xdkff3",
+        "buy_buttons_6MVHQR",
+        "pickup_availability_hHCAQf"
+      ],
+      "custom_css": [
+        ".text-on-sale {color: #00b67b;}"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": false,
+        "product": "rasoir-klyne",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -394,6 +495,7 @@
     "image_with_text_overlay_BQUHCy",
     "custom_liquid_ynRrNP",
     "multi_column_tyUrPg",
+    "featured_product_iX8zz3",
     "faq"
   ]
 }
