@@ -427,8 +427,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "What’s included in the KLYNE pack?",
+            "content": "<p>The <strong>Klyne pack</strong> comes with everything you need for a complete and effortless shaving routine:</p><ul><li><strong>Body trimmer head </strong>: designed to quickly remove hair from larger areas</li><li><strong>Precision shaver head</strong> : perfect for sensitive zones and a flawless finish</li><li><strong>Also included</strong> : </li></ul><p>1 trimmer guard</p><p>USB-C charging cable</p><p>Cleaning brush</p><p>User manual</p><p><strong>+ 1 free exfoliating glove !</strong></p><p>Easy, precise care — for every part of your body.</p>",
             "page": ""
           }
         },
