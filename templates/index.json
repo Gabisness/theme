@@ -146,6 +146,194 @@
         "text_color": ""
       }
     },
+    "multi_column_tyUrPg": {
+      "type": "multi-column",
+      "blocks": {
+        "item_VVePzf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-1.png",
+            "column_size": "3",
+            "title": "Emily D.",
+            "heading_tag": "h4",
+            "content": "<p><em>“For anyone wondering — it’s not painful at all! After just one shave, it honestly felt like I had the smoothest skin ever. No more redness, no more ingrown hairs, and the softness lasts. I’m so happy with it!”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JJngk4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-2.png",
+            "column_size": "3",
+            "title": "Jade A.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I’ve had keratosis pilaris for years, and my legs were always covered in redness after shaving. With Klyne, I saw a difference from the very first use. My skin is finally smooth and soft, with no irritation. It’s the first time a device actually works for me.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_h493DA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-3.png",
+            "column_size": "3",
+            "title": "Rachel C.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I’ve always had really sensitive skin in that area — ingrown hairs, red marks, you name it… Now it’s smooth, clear, and there’s no reaction at all. I totally recommend it.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HqAEJd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-5.png",
+            "column_size": "3",
+            "title": "Olivia A.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I have PCOS and struggled for years with hair on my chin and neck. Laser treatments did nothing — actually, it made the regrowth even worse. I was hopeless… until I found Klyne. After just 1 to 2 months, the hair almost disappeared. Now I just do a quick touch-up every 1 to 2 weeks. No more painful weekly hair removal. Klyne is gentle, effective, and honestly changed my life. Thank you 🩷”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cCxm6h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-4.png",
+            "column_size": "3",
+            "title": "Clara T.",
+            "heading_tag": "h4",
+            "content": "<p><em>“What I love is that I only need one pass and it’s smooth. Before, I had to go over the same spot multiple times with a disposable razor, and it gave me crazy redness. Now it’s quick, and my skin stays clean.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ecBMjA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-6.png",
+            "column_size": "3",
+            "title": "Chloe J.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I used to always get irritation and intense itching after shaving. With Klyne, that barely happens anymore. Such a great find.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fgznEV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-7.png",
+            "column_size": "3",
+            "title": "Ashley A.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I never used to show that part of my body — it was covered in bumps and ingrown hairs. This is the first time I’ve gotten such clean results without burning or stinging. I’ve gained back a bit of confidence, and for that alone, thank you.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7N79tE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-8.png",
+            "column_size": "3",
+            "title": "Madison L.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I just wanted an effective shaver, but I got more than that!! I don’t shop online much, but honestly, I’m blown away. Instant smoothness, and my skin stays clear for days. It’s a yes from me!”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pUUd4N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-9.png",
+            "column_size": "3",
+            "title": "Brianna Q.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I don’t have to think about shaving every day anymore. I just do a quick touch-up when I have time — shaving has actually become enjoyable.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9DGdwd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-10.png",
+            "column_size": "3",
+            "title": "Charlotte D.",
+            "heading_tag": "h4",
+            "content": "<p><em>“I’ve always had very visible hair under my chin and on my neck, and it was a daily struggle. Even when I shaved, it left dark spots or the hair would grow back the next day. Since I started using the Klyne 2-in-1 shaver, it’s a complete game changer! My skin is smooth, no more marks, and regrowth has seriously slowed down. Honestly, I feel like myself again — I finally go out without a scarf or foundation to hide it.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hcyRdX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-11.png",
+            "column_size": "3",
+            "title": "Julie M.",
+            "heading_tag": "h4",
+            "content": "<p><em>“Honestly, waxing was a nightmare… I’d come out feeling like I was on fire every time. With the Klyne shaver, it’s the total opposite: quick, comfortable, and effective. And the results last way longer than I expected. I definitely recommend it.”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XaVetB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Klyne-12.png",
+            "column_size": "3",
+            "title": "Sabrina B.",
+            "heading_tag": "h4",
+            "content": "<p><em>“Klyne leaves my skin smooth, without the usual razor bumps. I’ve been using it for a few months now and I’m honestly really happy with it. I was a bit skeptical at first (I saw it on Facebook), but I definitely don’t regret buying it!”</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_VVePzf",
+        "item_JJngk4",
+        "item_h493DA",
+        "item_HqAEJd",
+        "item_cCxm6h",
+        "item_ecBMjA",
+        "item_fgznEV",
+        "item_7N79tE",
+        "item_pUUd4N",
+        "item_9DGdwd",
+        "item_hcyRdX",
+        "item_XaVetB"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -205,6 +393,7 @@
     "custom_liquid_JHY9bA",
     "image_with_text_overlay_BQUHCy",
     "custom_liquid_ynRrNP",
+    "multi_column_tyUrPg",
     "faq"
   ]
 }
