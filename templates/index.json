@@ -471,6 +471,16 @@
             "content": "<p><strong>Accepted payment methods:</strong><br/><br/>Credit & debit cards: Visa, MasterCard, American Express, Discover<br/><br/>Digital wallets & express checkout: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay<br/><br/><strong>Security & reliability:</strong><br/><br/>256-bit SSL encryption: All transactions are protected to keep your information safe<br/><br/>Enhanced verification: Every purchase undergoes additional checks to prevent fraud<br/><br/>Questions?<br/>Our U.S.-based support team is available 24/7.<br/>Email us at contact@klyne.shop.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_AzEbBC": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30-Day Money-Back Guarantee",
+            "content": "<p>We want you to love your KLYNE purchase! If you're not completely satisfied with your order, just reach out to us within 30 days of delivery — we’ll be happy to review your case and see how we can help.<br/><br/>You can contact us anytime at <strong>contact@klyne.shop </strong>— we’re always here for you!</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -491,7 +501,8 @@
         "collapsible_text_VA8rPH",
         "collapsible_text_fgLHzW",
         "collapsible_text_k3hPQJ",
-        "collapsible_text_xFiM4d"
+        "collapsible_text_xFiM4d",
+        "collapsible_text_AzEbBC"
       ],
       "custom_css": [
         ".text-on-sale {color: #00b67b;}"
