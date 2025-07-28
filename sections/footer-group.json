@@ -43,27 +43,27 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "icon": "picto-validation",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
+            "title": "30-Day Guarantee",
+            "content": "<p>Love it or get your money back.</p>"
           }
         },
         "payment": {
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1a1a1a",
             "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "content": "<p>Protected by SSL encryption & 3D Secure.</p>"
           }
         }
       },
@@ -88,15 +88,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -110,12 +101,11 @@
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
-        "newsletter",
         "links",
         "text"
       ],
