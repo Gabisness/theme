@@ -1110,8 +1110,71 @@
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "I bought it as a treat for myself, and it was totally worth it.",
-            "author": "Chloe P.",
+            "text": "Fast, efficient charging and say goodbye to ingrown hairs—love it!",
+            "author": "Morgan D.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_Xtjw8J": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Legs and bikini area are flawless with zero tugging. Highly recommend!",
+            "author": "Kaitlyn R.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_bwECxn": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Compact, precise, and it glides like a dream.",
+            "author": "Jordan T.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_GxFkwR": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Package arrived quickly, and the shave is super smooth.",
+            "author": "Sierra J.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_UizHMD": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "My sensitive skin gives this 100% approval!",
+            "author": "Felicia M.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_EwDCGk": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Ultra-light, and my skin doesn’t itch after shaving—so awesome!",
+            "author": "Tiana S.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_9gean7": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I waited impatiently, and for once online shopping didn’t disappoint. I’m recommending Klyne to everyone!",
+            "author": "Monica C.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_U3B9JH": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I was so ashamed of my bumps—I think I’ve found my miracle product! 100% recommend.",
+            "author": "Elena G.",
             "verified": "Verified Buyer"
           }
         }
@@ -1151,7 +1214,14 @@
         "testimonial_HKdKQY",
         "testimonial_ENz3RC",
         "testimonial_AYBN9C",
-        "testimonial_rm6pfq"
+        "testimonial_rm6pfq",
+        "testimonial_Xtjw8J",
+        "testimonial_bwECxn",
+        "testimonial_GxFkwR",
+        "testimonial_UizHMD",
+        "testimonial_EwDCGk",
+        "testimonial_9gean7",
+        "testimonial_U3B9JH"
       ],
       "name": "SS - Testimonials #7",
       "settings": {
