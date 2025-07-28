@@ -770,13 +770,6 @@
             "content": "<p>With its innovative design, Klyne removes hair without direct blade-to-skin contact, so you won’t have to worry about cuts or ingrown hairs.</p>"
           }
         },
-        "item_XqWk6f": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
         "item_3M3Dkh": {
           "type": "item",
           "settings": {
@@ -789,6 +782,13 @@
           "settings": {
             "title": "How do I clean Klyne after use?",
             "content": "<p>After each use, simply rinse the heads under running water. A small cleaning brush is included for more precise cleaning.</p>"
+          }
+        },
+        "item_XqWk6f": {
+          "type": "item",
+          "settings": {
+            "title": "Can I travel with Klyne?",
+            "content": "<p>Absolutely! Klyne slips right into your suitcase and won’t hog all the room in your toiletry bag—perfect for on-the-go grooming.</p>"
           }
         },
         "item_bfPBdX": {
@@ -811,9 +811,9 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_XkJjne",
-        "item_XqWk6f",
         "item_3M3Dkh",
         "item_N8HAEh",
+        "item_XqWk6f",
         "item_bfPBdX",
         "item_WfFadN"
       ],
