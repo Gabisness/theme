@@ -777,25 +777,32 @@
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
+        "item_3M3Dkh": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use Klyne in the shower?",
+            "content": "<p>Absolutely! Klyne is fully waterproof and perfect for in-shower use. Shave wet or dry for a quick, convenient routine.</p>"
+          }
+        },
         "item_N8HAEh": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "How do I clean Klyne after use?",
+            "content": "<p>After each use, simply rinse the heads under running water. A small cleaning brush is included for more precise cleaning.</p>"
           }
         },
-        "item_aT9kgU": {
+        "item_bfPBdX": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "How long does it take to charge Klyne?",
+            "content": "<p>A full charge takes about 30–45 minutes thanks to its fast-charge technology.</p>"
           }
         },
-        "item_9Lxm9W": {
+        "item_WfFadN": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "What if I’m not satisfied?",
+            "content": "<p>We offer a 30-day money-back guarantee. If the product doesn’t meet your expectations, just contact our customer support for a full refund.</p>"
           }
         }
       },
@@ -805,9 +812,10 @@
         "166442457738b23caf-2",
         "item_XkJjne",
         "item_XqWk6f",
+        "item_3M3Dkh",
         "item_N8HAEh",
-        "item_aT9kgU",
-        "item_9Lxm9W"
+        "item_bfPBdX",
+        "item_WfFadN"
       ],
       "settings": {
         "full_width": true,
