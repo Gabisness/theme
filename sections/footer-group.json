@@ -88,6 +88,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Need help?",
+            "content": "<p>Contact us via the form on our <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">Contact page</a> or email <strong>contact@klyne.shop</strong>.<br/><br/><strong>Hours:</strong> Monday–Saturday: 9 AM–1 PM & 2 PM–8 PM; Sunday: 10 AM–12 PM.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -95,19 +103,11 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": false
-          }
         }
       },
       "block_order": [
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "show_social_media": true,
