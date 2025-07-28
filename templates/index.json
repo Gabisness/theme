@@ -703,25 +703,25 @@
         "second_button_radius": 6,
         "second_button_border_thickness": 2,
         "table_heading_color": "#1a1a1a",
-        "table_heading_active_color": "#FFFFFF",
+        "table_heading_active_color": "#ffffff",
         "table_heading_bg_active_color": "#fec6c5",
         "table_column_active_bg_color": "#fec6c5",
         "table_column_active_border_color": "#fec6c5",
-        "table_row_border_color": "#D3CABC",
+        "table_row_border_color": "#d3cabc",
         "table_row_heading_color": "#1a1a1a",
         "table_row_text_color": "#1a1a1a",
         "table_row_active_text_color": "#1a1a1a",
-        "button_color": "#A8252E",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#a8252e",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "",
-        "button_bg_hover_color": "#A8252E",
-        "button_border_color": "#A8252E",
-        "button_border_hover_color": "#A8252E",
-        "second_button_color": "#FFFFFF",
-        "second_button_hover_color": "#FFFFFF",
-        "second_button_bg_color": "#A8252E",
+        "button_bg_hover_color": "#a8252e",
+        "button_border_color": "#a8252e",
+        "button_border_hover_color": "#a8252e",
+        "second_button_color": "#ffffff",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#a8252e",
         "second_button_bg_hover_color": "#791119",
-        "second_button_border_color": "#A8252E",
+        "second_button_border_color": "#a8252e",
         "second_button_border_hover_color": "#791119",
         "heading_color": "#1a1a1a",
         "background_color": "#ffffff",
@@ -752,22 +752,62 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Is it painful to use?",
+            "content": "<p>Not at all! Klyne is designed to trim hair without tugging or scratching. You’ll enjoy a comfortable shave and smooth, cut-free skin.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I use Klyne on all body areas?",
+            "content": "<p>Yes! Klyne is versatile enough to use on your legs, underarms, bikini area, and even your face.</p>"
+          }
+        },
+        "item_XkJjne": {
+          "type": "item",
+          "settings": {
+            "title": "Are there any risks of cuts or ingrown hairs?",
+            "content": "<p>With its innovative design, Klyne removes hair without direct blade-to-skin contact, so you won’t have to worry about cuts or ingrown hairs.</p>"
+          }
+        },
+        "item_XqWk6f": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_N8HAEh": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_aT9kgU": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_9Lxm9W": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_XkJjne",
+        "item_XqWk6f",
+        "item_N8HAEh",
+        "item_aT9kgU",
+        "item_9Lxm9W"
       ],
       "settings": {
         "full_width": true,
