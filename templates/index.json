@@ -930,54 +930,189 @@
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Just 3 times isn't enough; it intensifies the more you use it, with a warming effect that's irresistible.'",
-            "author": "Sarah M.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "I have sensitive skin, and finally a shaver that doesn’t irritate me—I actually enjoy shaving now. Highly recommend it.",
+            "author": "Emma J.",
+            "verified": "Verified Buyer"
           }
         },
-        "testimonial_nUgdpY": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4.5,
-            "text": "'Patience pays off with these Tabs. It takes a moment, but the enduring radiance is undeniable.'",
-            "author": "Chloe K.",
-            "verified": "VERIFIED PURCHASE"
-          }
-        },
-        "testimonial_UMtJGB": {
+        "testimonial_WLyAge": {
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Never knew my skin could feel so alive. It's the perfect prep for a night out with someone special.'",
-            "author": "Hans B.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "I’ve never gotten a deal this good before—it was discounted, but it really makes a difference!",
+            "author": "Aaliyah B.",
+            "verified": "Verified Buyer"
           }
         },
-        "testimonial_FQY3YJ": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4.5,
-            "text": "'Plan a night in with this one! Once it activates, you're in for hours of silky-smooth skin.'",
-            "author": "Linus S.",
-            "verified": "VERIFIED PURCHASE"
-          }
-        },
-        "testimonial_3Fe8Pg": {
+        "testimonial_FXyRRN": {
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "'Had my doubts, but no regrets now! Every application turns my skin's luminosity up a notch.'",
-            "author": "William I.",
-            "verified": "VERIFIED PURCHASE"
+            "text": "I’m impressed! This shaver completely changed the way I shave.",
+            "author": "Sophia L.",
+            "verified": "Verified Buyer"
           }
         },
-        "testimonial_yL84zR": {
+        "testimonial_KAxYi3": {
           "type": "testimonial",
           "settings": {
-            "rating": 4.5,
-            "text": "'The scent and packaging won me over. Solo use? Absolutely enjoyable and quite the treat.'",
-            "author": "Stephanie A.",
-            "verified": "VERIFIED PURCHASE"
+            "rating": 5,
+            "text": "My hair is thick and coarse, but it removes everything pain-free.",
+            "author": "Jasmine R.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_8LjWq8": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "The USB charger is a lifesaver—I needed it for my iPhone lol—but it’s a great shaver; no more post-shave suffering",
+            "author": "Mia H.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_GzLGQM": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It has become a must-have in my beauty routine, especially in the mornings.",
+            "author": "Isabella N.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_ppgYHW": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I thought the dual-head was a gimmick, but it’s super effective.",
+            "author": "Olivia S.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_EJLCtJ": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I recommend it 100%! Go for it, ladies!!",
+            "author": "Zoe M.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_AzdKiE": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "My legs are so soft—what kind of magic is this?",
+            "author": "Madison T.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_npFa3w": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Got it fast, thanks for the extra cleaning brush—it’s so handy.",
+            "author": "Danielle D.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_xqq3FT": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "This is a game-changer compared to old drugstore razors—my skin is so soft.",
+            "author": "Madison A.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_M8N6dL": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I bought it as a treat for myself, and it was totally worth it.",
+            "author": "Chloe P.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_6LPGmb": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "My legs stay smooth for days—it’s better than anything I’ve tried before.",
+            "author": "Maya Y.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_gEjfph": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It saves me so much time—I can shave in no time at all",
+            "author": "Ava C.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_9yUtat": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "First time I’ve shaved my bikini area pain-free. Finally!",
+            "author": "Ella M.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_QDB6GD": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Fast shipping—shaving has become enjoyable. I definitely recommend it.",
+            "author": "Olivia G.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_UqRwq8": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Great product, no complaints—I’m happy with my purchase.",
+            "author": "Nia K.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_HKdKQY": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Pain-free bikini shave—first time ever! Super convenient.",
+            "author": "Hailey S.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_ENz3RC": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I bought it as a treat for myself, and it was totally worth it.",
+            "author": "Chloe P.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_AYBN9C": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I bought it as a treat for myself, and it was totally worth it.",
+            "author": "Chloe P.",
+            "verified": "Verified Buyer"
+          }
+        },
+        "testimonial_rm6pfq": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I bought it as a treat for myself, and it was totally worth it.",
+            "author": "Chloe P.",
+            "verified": "Verified Buyer"
           }
         }
       },
@@ -997,11 +1132,26 @@
         "image_4CjdpD",
         "image_Yhb4dy",
         "testimonial_Ct8i7K",
-        "testimonial_nUgdpY",
-        "testimonial_UMtJGB",
-        "testimonial_FQY3YJ",
-        "testimonial_3Fe8Pg",
-        "testimonial_yL84zR"
+        "testimonial_WLyAge",
+        "testimonial_FXyRRN",
+        "testimonial_KAxYi3",
+        "testimonial_8LjWq8",
+        "testimonial_GzLGQM",
+        "testimonial_ppgYHW",
+        "testimonial_EJLCtJ",
+        "testimonial_AzdKiE",
+        "testimonial_npFa3w",
+        "testimonial_xqq3FT",
+        "testimonial_M8N6dL",
+        "testimonial_6LPGmb",
+        "testimonial_gEjfph",
+        "testimonial_9yUtat",
+        "testimonial_QDB6GD",
+        "testimonial_UqRwq8",
+        "testimonial_HKdKQY",
+        "testimonial_ENz3RC",
+        "testimonial_AYBN9C",
+        "testimonial_rm6pfq"
       ],
       "name": "SS - Testimonials #7",
       "settings": {
