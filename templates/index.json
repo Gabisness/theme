@@ -539,40 +539,75 @@
         "item_gQjgMB": {
           "type": "item",
           "settings": {
-            "row_heading": "NATIVE SHOPIFY PAGE BUILDER",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Painless & Ultra-Gentle",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         },
         "item_cPx6Bm": {
           "type": "item",
           "settings": {
-            "row_heading": "NO MONTHLY SUBSCRIPTION FEES",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Anytime, Anywhere",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         },
         "item_DKDdb7": {
           "type": "item",
           "settings": {
-            "row_heading": "200+ HIGHLY CUSTOMISABLE SECTIONS",
-            "first_column": "Yes",
-            "second_column": "No",
-            "third_column": "",
+            "row_heading": "Price",
+            "first_column": "$39.95 one-time",
+            "second_column": "From $30 per session",
+            "third_column": "From $90 per session",
             "four_column": ""
           }
         },
         "item_FmmNkz": {
           "type": "item",
           "settings": {
-            "row_heading": "THE SLEEKEST LOOKING DESIGNS",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "From $30 per session",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/check-rose-klyne.svg",
             "third_column": "",
+            "third_column_image": "shopify://shop_images/check-rose-klyne.svg",
+            "four_column": ""
+          }
+        },
+        "item_BwX7yr": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Ideal for sensitive skin",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
+            "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
+            "four_column": ""
+          }
+        },
+        "item_PYH7Uq": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Satisfaction Guaranteed or Your Money Back",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/check-blanc.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/croix-rouge.svg",
+            "third_column": "",
+            "third_column_image": "shopify://shop_images/croix-rouge.svg",
             "four_column": ""
           }
         }
@@ -581,7 +616,9 @@
         "item_gQjgMB",
         "item_cPx6Bm",
         "item_DKDdb7",
-        "item_FmmNkz"
+        "item_FmmNkz",
+        "item_BwX7yr",
+        "item_PYH7Uq"
       ],
       "name": "SS - Comparison Table #4",
       "settings": {
