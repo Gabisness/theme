@@ -346,7 +346,7 @@
         "liquid_xF3BWG": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .custom-reviews {\n    display: flex;\n    align-items: center;\n    font-size: 13px;\n    margin-top: 12px;\n    cursor: pointer;\n  }\n\n  .custom-reviews .stars {\n    margin-right: 6px;\n    width: 85px;\n    height: auto;\n  }\n\n  .custom-reviews .underline {\n    text-decoration: underline;\n  }\n</style>\n\n<div\n  class=\"custom-reviews\"\n  onclick=\"document.getElementById('shopify-section-template--25660332638533__testi_bas_page_jiN7eh').scrollIntoView({ behavior: 'smooth' });\"\n>\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\"\n    alt=\"4.5 étoiles\"\n    class=\"stars\"\n  />\n  <span>\n    <strong>Excellent</strong>\n    4.7/5 – <span class=\"underline\">1832 reviews</span>\n  </span>\n</div>"
+            "liquid": "<style>\n  .custom-reviews {\n    display: flex;\n    align-items: center;\n    font-size: 13px;\n    margin-top: 12px;\n    cursor: pointer;\n  }\n\n  .custom-reviews .stars {\n    margin-right: 6px;\n    width: 85px;\n    height: auto;\n  }\n\n  .custom-reviews .underline {\n    text-decoration: underline;\n  }\n</style>\n\n<div\n  class=\"custom-reviews\"\n  onclick=\"document.getElementById('shopify-section-template--25154766012802__avis_klyne_iU6d84').scrollIntoView({ behavior: 'smooth' });\"\n>\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\"\n    alt=\"4.5 étoiles\"\n    class=\"stars\"\n  />\n  <span>\n    <strong>Excellent</strong>\n    4.7/5 – <span class=\"underline\">1832 reviews</span>\n  </span>\n</div>"
           }
         },
         "liquid_Xj9xzU": {
