@@ -468,7 +468,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Secure Payment",
-            "content": "<p><strong>Accepted payment methods:</strong><br/><br/>Credit & debit cards: Visa, MasterCard, American Express, Discover<br/><br/>Digital wallets & express checkout: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay<br/><br/><strong>Security & reliability:</strong><br/><br/>256-bit SSL encryption: All transactions are protected to keep your information safe<br/><br/>Enhanced verification: Every purchase undergoes additional checks to prevent fraud<br/><br/>Questions?<br/>Our U.S.-based support team is available 24/7.<br/>Email us at contact@klyne.shop.</p>",
+            "content": "<p><strong>Accepted Payment Methods:</strong><br/><br/>Credit & Debit cards: Visa, MasterCard, American Express, Discover<br/><br/>Digital Wallets & Express Checkout: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay<br/><br/><strong>Security & Reliability:</strong><br/><br/>256-bit SSL encryption: All transactions are protected to keep your information safe<br/><br/>Enhanced verification: Every purchase undergoes additional checks to prevent fraud<br/><br/>Questions?<br/>Our U.S.-based support team is available 24/7.<br/>Email us at contact@klyne.shop.</p>",
             "page": ""
           }
         },
