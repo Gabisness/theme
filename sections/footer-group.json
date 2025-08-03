@@ -92,7 +92,7 @@
           "type": "text",
           "settings": {
             "title": "Need help?",
-            "content": "<p>Contact us via the form on our <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">Contact page</a> or email <strong>contact@klyne.shop</strong>.<br/><br/><strong>Hours:</strong> Monday–Saturday: 9 AM–1 PM & 2 PM–8 PM; Sunday: 10 AM–12 PM.</p>",
+            "content": "<p>Contact us via the form on our <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">Contact page</a> or email <strong>contact@klyne.shop</strong>.<br/><br/><strong>Hours:</strong> Monday–Saturday: 9 A.M–1 P.M & 2 P.M–8 P.MSunday: 10 A.M–12 P.M</p>",
             "enable_follow_on_shop": false
           }
         },
