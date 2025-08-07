@@ -11,6 +11,9 @@
   "markets": {
     "bigs": {
       "parent": "@default"
+    },
+    "australie": {
+      "parent": "@default"
     }
   }
 }
