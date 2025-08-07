@@ -8,9 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "overlay-group.json",
+  "parent": "index.json",
   "context": {
-    "market": "us"
+    "market": "australie"
   },
   "sections": {}
 }
