@@ -63,18 +63,18 @@
             "link": ""
           }
         },
-        "logo_WWdeQY": {
+        "logo_Xyc8Nc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/glamour.svg",
+            "logo": "shopify://shop_images/elle_logo_noir.svg",
             "logo_width": 120,
             "link": ""
           }
         },
-        "logo_Xyc8Nc": {
+        "logo_WWdeQY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/allure.png",
+            "logo": "shopify://shop_images/marie-clair-noir.png",
             "logo_width": 120,
             "link": ""
           }
@@ -83,8 +83,8 @@
       "block_order": [
         "logo_Vyy9Ez",
         "logo_jBjKnC",
-        "logo_WWdeQY",
-        "logo_Xyc8Nc"
+        "logo_Xyc8Nc",
+        "logo_WWdeQY"
       ],
       "name": "Logo list",
       "settings": {
