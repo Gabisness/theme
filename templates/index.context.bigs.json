@@ -35,6 +35,11 @@
           "settings": {
             "content": "<p><strong>Accepted Payment Methods:</strong><br/><br/>Credit & Debit cards: Visa, MasterCard, American Express, Discover<br/><br/>Digital Wallets & Express Checkout: PayPal, Apple Pay, Google Pay, Amazon Pay, Shop Pay<br/><br/><strong>Security & Reliability:</strong><br/><br/>256-bit SSL encryption: All transactions are protected to keep your information safe<br/><br/>Enhanced verification: Every purchase undergoes additional checks to prevent fraud<br/><br/>Questions?<br/>Our support team is available 24/7.<br/>Email us at contact@klyne.shop.</p>"
           }
+        },
+        "image_aJQHjt": {
+          "settings": {
+            "image": "shopify://shop_images/2-exfoliating-glove-CA-AUS.png"
+          }
         }
       }
     },
@@ -43,9 +48,9 @@
       "blocks": {
         "item_DKDdb7": {
           "settings": {
+            "first_column": "$56 one-time",
             "second_column": "From $40 per session",
-            "third_column": "From $100 per session",
-            "first_column": "$56 one-time"
+            "third_column": "From $100 per session"
           }
         }
       }
