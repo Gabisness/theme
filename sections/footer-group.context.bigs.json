@@ -12,5 +12,16 @@
   "context": {
     "market": "bigs"
   },
-  "sections": {}
+  "sections": {
+    "text-with-icons": {
+      "settings": {},
+      "blocks": {
+        "free-shipping": {
+          "settings": {
+            "content": "<p>Free worldwide shipping</p>"
+          }
+        }
+      }
+    }
+  }
 }
