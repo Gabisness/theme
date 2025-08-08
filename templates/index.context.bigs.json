@@ -37,6 +37,18 @@
           }
         }
       }
+    },
+    "comparaison_p3NLfE": {
+      "settings": {},
+      "blocks": {
+        "item_DKDdb7": {
+          "settings": {
+            "second_column": "From $40 per session",
+            "third_column": "From $100 per session",
+            "first_column": "$56 one-time"
+          }
+        }
+      }
     }
   }
 }
