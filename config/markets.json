@@ -17,6 +17,9 @@
     },
     "nouvelle-zelande": {
       "parent": "@default"
+    },
+    "us": {
+      "parent": "@default"
     }
   }
 }

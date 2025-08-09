@@ -12,5 +12,18 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "comparaison_p3NLfE": {
+      "settings": {},
+      "blocks": {
+        "item_DKDdb7": {
+          "settings": {
+            "first_column": "$44.95 one-time",
+            "second_column": "From $40 per session",
+            "third_column": "From $100 per session"
+          }
+        }
+      }
+    }
+  }
 }
